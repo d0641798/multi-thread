@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1609669407 source:c:\users\user\desktop\平行化程式\parallel\main.c
+	<assert.h>
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<time.h>
+
