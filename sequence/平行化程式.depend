@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1608017988 source:c:\users\user\desktop\平行化程式\main.c
+	<assert.h>
+	<stdio.h>
+	<stdlib.h>
+
